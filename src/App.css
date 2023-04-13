@@ -1,38 +1,36 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+}
+.logo-name{
+  font-family: 'Dancing Script', cursive;
   text-align: center;
+  font-size: 40px;
+  color: whitesmoke;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.App{
+  background-image: url("../public/bg1.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   min-height: 100vh;
+  width: auto;
+}
+
+.search-bar{
+  height: 30px;
+  width: 300px;
+}
+
+.search-button{
+  height: 34px;
+}
+
+.recipe-list{
+  /* border: 4px yellow solid; */
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

@@ -1,0 +1,30 @@
+.recipe h1{
+    text-align: center;
+}
+
+.recipe-container{
+    margin: 4vh 5vh;
+    /* border: 4px green solid; */
+    width: 80vh;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 10px 4px rgba(0,0,0,0.1);
+    border-radius: 15px;
+}
+
+.recipe{
+    padding: 6px;
+    /* background-color: rgba(255, 255, 255, 0.8); */
+    /* box-shadow: 0px 10px 4px rgba(0,0,0,0.1); */
+    border-radius: 15px;
+    /* border: 4px blue solid; */
+}
+
+.small-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+ul{
+    padding-left: 10px;
+}
