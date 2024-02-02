@@ -1,19 +1,44 @@
 .recipe h1{
     text-align: center;
-    color: rgb(230, 59, 74)
+    color: rgb(230, 59, 74);
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.recipe-container{
+.recipe-container, .recipe-container2{
     margin: 4vh 5vh;
-    /* border: 4px green solid; */
-    width: 80vh;
     background-color: rgb(247, 219, 127);
     box-shadow: 0px 10px 4px rgba(0,0,0,0.1);
     border-radius: 15px;
+    position: relative;
 }
-.recipe-desc{
+.recipe-container{
+    width: 40vh;
+    min-height: 50vh;
+
+}
+.recipe-container2{
+    margin: 20vh 10vh;
+}
+
+.recipe-desc, .recipe-info{
     margin: 2vh 5vh;
+}
+
+.recipe-desc{
     text-align: center;
+
+}
+
+.recipe-desc p{
+    min-height: 200px;
+}
+
+.recipe-info h3{
+    text-align: center;
+    color: rgb(230, 59, 74);
 }
 
 .recipe-desc p{
@@ -23,24 +48,25 @@
 
 }
 
-/* .recipe-btn{
-    position: relative;
-    background-color: rgb(230, 59, 74);
-    font-size: 1.2rem;
-    overflow: hidden;
-} */
+input{
+    border: none;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 15px;
+}
 .recipe-btn button{
     position: relative;
     overflow: hidden;
+    
 }
 .recipe-btn button::before{
     position: absolute;
     content: "";
-    margin: -115px 30px;
-    width: 50px;
-    height: 250px;
+    margin: -100px -8px;
+    width: 30px;
+    height: 260px;
     background-color: white;
-    transform: rotate(90deg);
+    transform: rotate(60deg);
 
 }
 
@@ -68,6 +94,16 @@
 
 
 }
+button{
+    background-color: rgb(230, 59, 74);
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 5px 10px;
+}
 
 .recipe-btn button{
     margin: 2vh 5vh;
@@ -81,7 +117,7 @@
     font-size: 1.2rem;
     font-weight: bold;
     cursor: pointer;
-    transition: 0.3s ease-in-out;
+    transition: 0.3s linear;
 
 }
 
@@ -101,4 +137,36 @@
 
 ul{
     padding-left: 10px;
+}
+
+.popup{
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    background: rgba(49,49,49,0.8);
+    z-index: 10;
+}
+
+.close-btn button{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgb(230, 59, 74);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: 0.3s linear;
+}
+
+.instruct-desc ul{
+    list-style-type: value;
+    
 }

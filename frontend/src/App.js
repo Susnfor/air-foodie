@@ -21,6 +21,7 @@ function App() {
       <div className='recipe-list'>
         {recipes
   .filter(recipe => recipe.name.toLowerCase().includes(searchTerm.toLowerCase()))
+  // .filter(recipe => recipe.ingredients.toLowerCase().includes(searchTerm.toLowerCase()))
   .map(recipe=>(
         <Recipe 
         key={recipe.name} 
