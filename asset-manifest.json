@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/air-foodie/static/css/main.d6176a51.css",
-    "main.js": "/air-foodie/static/js/main.8b05f800.js",
-    "static/media/bg1.jpeg": "/air-foodie/static/media/bg1.c4e27989839c783bdf87.jpeg",
+    "main.css": "/air-foodie/static/css/main.4f359d60.css",
+    "main.js": "/air-foodie/static/js/main.02940b34.js",
     "index.html": "/air-foodie/index.html",
-    "main.d6176a51.css.map": "/air-foodie/static/css/main.d6176a51.css.map",
-    "main.8b05f800.js.map": "/air-foodie/static/js/main.8b05f800.js.map"
+    "main.4f359d60.css.map": "/air-foodie/static/css/main.4f359d60.css.map",
+    "main.02940b34.js.map": "/air-foodie/static/js/main.02940b34.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6176a51.css",
-    "static/js/main.8b05f800.js"
+    "static/css/main.4f359d60.css",
+    "static/js/main.02940b34.js"
   ]
 }
