@@ -11,17 +11,26 @@ function Recipe(props) {
             <h6>🍕Serving Size: {props.servingTime}</h6>
         </div>
 
-        <h3>Ingredients</h3>
+        <div className='recipe-desc'>
+        {/* <h3>Ingredients</h3>
         <ul>{props.ingredients.map(ingred=>(
           <li>{ingred}</li>
-        ))}</ul>
+        ))}</ul> */}
 
+        {/* Description */}
+        <p>{props.description}</p>
+        
 
+        {/* <h3>Instructions</h3>
+        <ul>{props.instructions.map(instruction=>(
+          <li>{instruction}</li>
+        ))}</ul> */}
+        <div className='recipe-btn'>
+          {/* text 'lets cook in css' .recipe-btn button::after */}
+        <button>Lets Cook!</button>
+        </div>
+        </div>
 
-        <h3>Instructions</h3>
-        <ul>{props.instructions.map(ingred=>(
-          <li>{ingred}</li>
-        ))}</ul>
         </div>
     </div>
   );

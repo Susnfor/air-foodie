@@ -29,7 +29,8 @@ function App() {
         cookTime={recipe.cook_time}  
         prepTime={recipe.prep_time}  
         ingredients={recipe.ingredients}  
-        instructions={recipe.instructions} 
+        instructions={recipe.instructions}
+        description={recipe.description}
         />
         ))}
 
