@@ -10,8 +10,13 @@
   color: whitesmoke;
 }
 
+body{
+  background-color: rgb(205, 225, 217);
+}
+
 .App{
-  background-image: url("../public/bg1.jpeg");
+  /* background-image: url("../public/bg1.jpeg"); */
+  /* background-color: rgb(205, 225, 217); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
