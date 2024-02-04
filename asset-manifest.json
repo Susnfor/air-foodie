@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/air-foodie/static/css/main.4f359d60.css",
+    "main.css": "/air-foodie/static/css/main.861e9ef7.css",
     "main.js": "/air-foodie/static/js/main.02940b34.js",
     "index.html": "/air-foodie/index.html",
-    "main.4f359d60.css.map": "/air-foodie/static/css/main.4f359d60.css.map",
+    "main.861e9ef7.css.map": "/air-foodie/static/css/main.861e9ef7.css.map",
     "main.02940b34.js.map": "/air-foodie/static/js/main.02940b34.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f359d60.css",
+    "static/css/main.861e9ef7.css",
     "static/js/main.02940b34.js"
   ]
 }
