@@ -1,0 +1,419 @@
+{
+    "recipes": [
+      {
+        "name": "Air Fryer Chicken Tenders",
+        "description": "Crispy and flavorful chicken tenders made in the air fryer. A quick and easy recipe that's perfect for a delicious meal or snack.",
+        "serving_size": 4,
+        "prep_time": "15 minutes",
+        "cook_time": "10 minutes",
+        "ingredients": [
+          "1 lb chicken tenders",
+          "1 cup flour",
+          "1 tsp salt",
+          "1 tsp paprika",
+          "1/2 tsp garlic powder",
+          "1/4 tsp black pepper",
+          "1 egg",
+          "1/4 cup milk",
+          "1 cup breadcrumbs",
+          "Cooking spray"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F. ",
+          "In a small bowl, mix together the flour, salt, paprika, garlic powder, and black pepper. ",
+          "In another bowl, whisk together the egg and milk. ",
+          "Put the breadcrumbs in a third bowl. ",
+          "Dredge each chicken tender in the flour mixture, then dip it in the egg mixture, and finally coat it in the breadcrumbs. ",
+          "Place the chicken tenders in the air fryer basket, making sure they don't touch each other. ",
+          "Spray the chicken tenders with cooking spray. ",
+          "Cook for 8-10 minutes, or until the chicken is cooked through and the outside is crispy. ",
+          "Serve hot with your favorite dipping sauce. "
+        ]
+      },
+      {
+        "name": "Air Fryer Sweet Potato Fries",
+        "description": "Delicious and healthy sweet potato fries made crispy in the air fryer. A perfect side dish or snack with a touch of sweetness and spice.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "ingredients": [
+          "2 large sweet potatoes",
+          "2 tbsp olive oil",
+          "1 tsp garlic powder",
+          "1 tsp paprika",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F.",
+          "Peel the sweet potatoes and cut them into thin fries.",
+          "In a large bowl, toss the sweet potato fries with the olive oil, garlic powder, paprika, salt, and black pepper.",
+          "Place the sweet potato fries in the air fryer basket, making sure they don't touch each other.",
+          "Cook for 12-15 minutes, shaking the basket halfway through, or until the fries are crispy and golden brown.",
+          "Serve hot with your favorite dipping sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Salmon",
+        "description": "Flavorful and perfectly cooked salmon fillets prepared effortlessly in the air fryer. A quick and healthy seafood option for any meal.",
+        "serving_size": 2,
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "ingredients": [
+          "2 salmon fillets",
+          "1 tbsp olive oil",
+          "1 tsp garlic powder",
+          "1 tsp paprika",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F.",
+          "Rub the salmon fillets with olive oil.",
+          "In a small bowl, mix together the garlic powder, paprika, salt, and black pepper.",
+          "Sprinkle the seasoning mixture over the salmon fillets.",
+          "Place the salmon fillets in the air fryer basket, skin side down.",
+          "Cook for 8-10 minutes, or until the salmon is cooked through and flakes easily with a fork.",
+          "Serve hot with your favorite side dishes."
+        ]
+      },
+      {
+        "name": "Air Fryer French Fries",
+        "description": "Classic French fries made healthier in the air fryer. Crispy on the outside, fluffy on the inside – the perfect side dish for any occasion.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "ingredients": [
+          "4 large russet potatoes",
+          "2 tbsp olive oil",
+          "1 tsp garlic powder",
+          "1 tsp paprika",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F.",
+          "Peel the potatoes and cut them into thin fries.",
+          "In a large bowl, toss the potato fries with the olive oil, garlic powder, paprika, salt, and black pepper.",
+          "Place the potato fries in the air fryer basket, making sure they don't touch each other.",
+          "Cook for 20 minutes, shaking the basket every 5 minutes, or until the fries are crispy and golden brown.",
+          "Serve hot with ketchup or your favorite dipping sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Chicken Wings",
+        "description": "Irresistibly crispy and flavorful chicken wings made effortlessly in the air fryer. Perfect for game day or any occasion.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "25 minutes",
+        "ingredients": [
+          "2 lbs chicken wings",
+          "2 tbsp baking powder",
+          "1 tsp garlic powder",
+          "1 tsp paprika",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "Cooking spray"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F.",
+          "In a small bowl, mix together the baking powder, garlic powder, paprika, salt, and black pepper.",
+          "Pat the chicken wings dry with paper towels and place them in a large bowl.",
+          "Sprinkle the seasoning mixture over the chicken wings and toss to coat evenly.",
+          "Place the chicken wings in the air fryer basket, making sure they don't touch each other.",
+          "Spray the chicken wings with cooking spray.",
+          "Cook for 20-25 minutes, shaking the basket every 5 minutes, or until the chicken wings are crispy and cooked through.",
+          "Serve hot with your favorite dipping sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Shrimp",
+        "description": "Quick and succulent shrimp cooked to perfection in the air fryer. A delightful seafood dish with a burst of flavors.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "5 minutes",
+        "ingredients": [
+          "1 lb raw shrimp, peeled and deveined",
+          "1 tbsp olive oil",
+          "1 tsp garlic powder",
+          "1/2 tsp paprika",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "1 lemon, sliced"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F.",
+          "In a large bowl, toss the shrimp with olive oil, garlic powder, paprika, salt, and black pepper until evenly coated.",
+          "Place the shrimp in the air fryer basket, making sure they don't touch each other.",
+          "Air fry for 5 minutes, shaking the basket halfway through the cooking time.",
+          "Squeeze lemon juice over the shrimp and serve hot with your favorite dipping sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Pork Chops",
+        "description": "Juicy and flavorful pork chops cooked to perfection in the air fryer. A simple and delicious main course with a golden brown crust.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "ingredients": [
+          "4 bone-in pork chops",
+          "1 tbsp olive oil",
+          "1 tsp garlic powder",
+          "1 tsp dried thyme",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 375°F.",
+          "Brush both sides of the pork chops with olive oil.",
+          "In a small bowl, mix together the garlic powder, dried thyme, salt, and black pepper.",
+          "Sprinkle the seasoning mixture over the pork chops.",
+          "Place the pork chops in the air fryer basket, making sure they don't touch each other.",
+          "Air fry for 15 minutes, flipping the pork chops halfway through the cooking time.",
+          "Serve hot with your favorite sides, such as roasted vegetables or mashed potatoes."
+        ]
+      },
+      {
+        "name": "Air Fryer Tofu",
+        "description": "Crispy and flavorful tofu bites made in the air fryer. A versatile and satisfying vegetarian option for various dishes.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "ingredients": [
+          "14 oz extra-firm tofu",
+          "1 tbsp cornstarch",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "Cooking spray",
+          "Soy sauce or other dipping sauce, for serving"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 375°F.",
+          "Press the tofu to remove excess water, then cut it into cubes.",
+          "In a large bowl, toss the tofu cubes with cornstarch, garlic powder, onion powder, salt, and black pepper until evenly coated.",
+          "Spray the air fryer basket with cooking spray.",
+          "Place the tofu cubes in the air fryer basket, making sure they don't touch each other.",
+          "Air fry for 15 minutes, shaking the basket every 5 minutes, or until the tofu is crispy and golden brown.",
+          "Serve hot with soy sauce or other dipping sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Buffalo Cauliflower Wings",
+        "description": "Spicy and flavorful cauliflower wings made in the air fryer. A perfect vegetarian alternative with a kick of heat.",
+        "serving_size": 4,
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "ingredients": [
+          "1 head cauliflower, cut into bite-sized florets",
+          "1/2 cup all-purpose flour",
+          "1 tsp garlic powder",
+          "1 tsp smoked paprika",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "1/2 cup unsweetened almond milk",
+          "1/2 cup bread crumbs",
+          "1/4 cup hot sauce",
+          "1 tbsp melted butter",
+          "Cooking spray",
+          "Ranch or blue cheese dressing, for serving"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 375°F.",
+          "In a large bowl, mix together the flour, garlic powder, smoked paprika, salt, and black pepper.",
+          "Add the almond milk to the bowl and whisk until smooth.",
+          "Add the cauliflower florets to the bowl and toss to coat evenly.",
+          "In a separate bowl, mix together the hot sauce and melted butter.",
+          "Remove each cauliflower floret from the almond milk mixture and dip it into the bread crumbs, pressing the crumbs onto the floret to make sure it is fully coated.",
+          "Spray the air fryer basket with cooking spray.",
+          "Arrange the cauliflower florets in a single layer in the air fryer basket.",
+          "Air fry for 10 minutes, flipping the florets halfway through the cooking time.",
+          "Brush the hot sauce mixture onto each cauliflower floret and return them to the air fryer basket.",
+          "Air fry for an additional 5-7 minutes, until the florets are crispy and lightly browned.",
+          "Serve hot with ranch or blue cheese dressing."
+        ]
+      },
+      {
+        "name": "Air Fryer Zucchini Chips",
+        "description": "Light and crispy zucchini chips made in the air fryer. A delightful and healthy snack or side dish with a perfect balance of flavors.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "ingredients": [
+          "2 medium zucchinis, sliced into 1/4-inch rounds",
+          "1/2 cup all-purpose flour",
+          "1 tsp garlic powder",
+          "1 tsp dried basil",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "2 eggs, beaten",
+          "1 cup panko bread crumbs",
+          "Cooking spray"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 375°F.",
+          "In a shallow bowl, mix together the flour, garlic powder, dried basil, salt, and black pepper.",
+          "In another shallow bowl, beat the eggs.",
+          "In a third shallow bowl, add the panko bread crumbs.",
+          "Dip each zucchini round into the flour mixture, then the eggs, and finally the bread crumbs, pressing the crumbs onto the zucchini to make sure it is fully coated.",
+          "Spray the air fryer basket with cooking spray.",
+          "Arrange the zucchini rounds in a single layer in the air fryer basket.",
+          "Air fry for 5 minutes, then flip the rounds and air fry for an additional 5 minutes, until they are golden brown and crispy.",
+          "Serve hot with your favorite dipping sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Meatballs",
+        "description": "Tasty and juicy meatballs cooked to perfection in the air fryer. A versatile dish that can be served as an appetizer or part of a main course.",
+        "serving_size": 6,
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "ingredients": [
+          "1 lb ground beef",
+          "1/2 cup breadcrumbs",
+          "1/4 cup milk",
+          "1 egg",
+          "1/4 cup grated Parmesan cheese",
+          "1 tsp dried oregano",
+          "1/2 tsp garlic powder",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "Cooking spray",
+          "Marinara sauce, for serving"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 400°F.",
+          "In a large bowl, mix together the ground beef, breadcrumbs, milk, egg, Parmesan cheese, oregano, garlic powder, salt, and black pepper.",
+          "Roll the mixture into 1 1/2-inch meatballs.",
+          "Spray the air fryer basket with cooking spray.",
+          "Arrange the meatballs in a single layer in the air fryer basket.",
+          "Air fry for 8 minutes, then flip the meatballs and air fry for an additional 7 minutes, until they are browned and cooked through.",
+          "Serve hot with marinara sauce."
+        ]
+      },
+      {
+        "name": "Air Fryer Chicken Quesadillas",
+        "description": "Cheesy and flavorful chicken quesadillas cooked to perfection in the air fryer. A quick and delicious meal or snack for any occasion.",
+        "serving_size": 4,
+        "prep_time": "15 minutes",
+        "cook_time": "8 minutes",
+        "ingredients": [
+          "2 cups cooked chicken, shredded",
+          "1/2 cup salsa",
+          "1/2 teaspoon ground cumin",
+          "1/2 teaspoon chili powder",
+          "1/4 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4 (8-inch) flour tortillas",
+          "1 cup shredded cheddar cheese",
+          "1/4 cup chopped fresh cilantro",
+          "Sour cream and additional salsa, for serving"
+        ],
+        "instructions": [
+          "Preheat the air fryer to 375°F.",
+          "In a large bowl, mix together the shredded chicken, salsa, chili powder, garlic powder, cumin, salt, and pepper.",
+          "Lay out four tortillas on a work surface.",
+          "Divide the chicken mixture evenly among the tortillas, spreading it out in a single layer.",
+          "Sprinkle the cheese over the chicken mixture, dividing it evenly among the tortillas.",
+          "Top each tortilla with another tortilla to create a quesadilla.",
+          "Place the quesadillas in the air fryer basket.",
+          "Cook for 6-8 minutes, or until the cheese is melted and the tortillas are crispy.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Air Fryer Coconut Shrimp",
+        "description": "Crispy and flavorful coconut shrimp made in the air fryer. A delicious appetizer or main course with a tropical twist.",
+        "serving_size": 4,
+        "prep_time": "20 minutes",
+        "cook_time": "8-10 minutes",
+        "ingredients": [
+          "1/2 cup all-purpose flour",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/2 teaspoon garlic powder",
+          "2 eggs",
+          "1/2 cup shredded coconut",
+          "1/2 cup Panko breadcrumbs",
+          "1 pound raw shrimp, peeled and deveined",
+          "Cooking spray"
+        ],
+        "instructions": [
+          "1. Preheat air fryer to 400°F.",
+          "2. In a small bowl, whisk together flour, salt, black pepper, and garlic powder.",
+          "3. In another small bowl, beat eggs.",
+          "4. In a third small bowl, mix together shredded coconut and Panko breadcrumbs.",
+          "5. Dip shrimp into the flour mixture, then into the eggs, and then coat with the coconut and Panko breadcrumb mixture.",
+          "6. Spray the air fryer basket with cooking spray.",
+          "7. Place shrimp in the air fryer basket and spray the tops of the shrimp with cooking spray.",
+          "8. Cook shrimp in the air fryer for 8-10 minutes, flipping halfway through, until the shrimp are golden brown and cooked through.",
+          "9. Serve hot with your favorite dipping sauce and enjoy!"
+        ]
+      },
+      {
+        "name": "Air Fryer Chicken Parmesan",
+        "description": "Classic chicken Parmesan made healthier in the air fryer. Crispy breaded chicken topped with marinara sauce and melted mozzarella cheese.",
+        "serving_size": 4,
+        "prep_time": "15 minutes",
+        "cook_time": "15-18 minutes",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1/2 cup all-purpose flour",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "2 eggs",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup shredded mozzarella cheese",
+          "1 1/2 cups marinara sauce",
+          "Cooking spray"
+        ],
+        "instructions": [
+          "1. Preheat air fryer to 400°F.",
+          "2. Pound chicken breasts to an even thickness with a meat mallet.",
+          "3. In a small bowl, whisk together flour, salt, and black pepper.",
+          "4. In another small bowl, beat eggs.",
+          "5. In a third small bowl, mix together breadcrumbs and Parmesan cheese.",
+          "6. Dip chicken breasts into the flour mixture, then into the eggs, and then coat with the breadcrumb mixture.",
+          "7. Spray the air fryer basket with cooking spray.",
+          "8. Place chicken breasts in the air fryer basket and spray the tops of the chicken breasts with cooking spray.",
+          "9. Cook chicken in the air fryer for 15-18 minutes, flipping halfway through, until the chicken is cooked through.",
+          "10. Top each chicken breast with marinara sauce and shredded mozzarella cheese.",
+          "11. Return chicken to air fryer and cook for an additional 2-3 minutes, until the cheese is melted and bubbly.",
+          "12. Serve hot with a side of pasta or your favorite vegetables and enjoy!"
+        ]
+      },
+      {
+        "name": "Air Fryer Falafel",
+        "description": "Delicious and crispy falafel made in the air fryer. A perfect vegetarian option with a blend of chickpeas, herbs, and spices.",
+        "serving_size": 4,
+        "prep_time": "10 minutes",
+        "cook_time": "12-15 minutes",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1/2 cup fresh parsley",
+          "1/2 cup fresh cilantro",
+          "1/2 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 tablespoons all-purpose flour",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon ground coriander",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "Cooking spray"
+        ],
+        "instructions": [
+          "1. Preheat air fryer to 375°F.",
+          "2. In a food processor, pulse together chickpeas, parsley, cilantro, onion, garlic, flour, cumin, coriander, salt, and black pepper until a coarse meal forms.",
+          "3. Shape the mixture into golf ball-sized balls and flatten slightly to form patties.",
+          "4. Spray the air fryer basket with cooking spray.",
+          "5. Place falafel patties in the air fryer basket, making sure they don't touch each other.",
+          "6. Spray the tops of the falafel patties with cooking spray.",
+          "7. Air fry for 12-15 minutes, flipping halfway through, until the falafel is golden brown and cooked through.",
+          "8. Serve hot with pita bread, hummus, and your favorite toppings."
+        ]
+      }
+    ]
+  }
+  
