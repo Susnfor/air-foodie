@@ -18,10 +18,13 @@ function App() {
         <button className='search-button' type='button'>Search</button>
         </form>
       </header>
+
       <div className='recipe-list'>
-        {recipes
-  .filter(recipe => recipe.name.toLowerCase().includes(searchTerm.toLowerCase()))
-  // .filter(recipe => recipe.ingredients.toLowerCase().includes(searchTerm.toLowerCase()))
+        {
+        recipes
+  .filter(
+    recipe => 
+    recipe.name.toLowerCase().includes(searchTerm.toLowerCase()))
   .map(recipe=>(
         <Recipe 
         key={recipe.name} 
