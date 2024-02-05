@@ -13,11 +13,15 @@ function App() {
     <div className="App">
       <header className='logo-name'>
         <h1>Air Foodie 🍱</h1>
+        <div className='welcome-message'>
+      <h3>Welcome to My recipe book, what do you want to cook today?</h3>
+      </div>
         <form className='search-form'>
         <input className='search-bar' type='text' placeholder='Type in recipe name' onChange={(e) => setSearchTerm(e.target.value)}/>
         <button className='search-button' type='button'>Search</button>
         </form>
       </header>
+  
 
       <div className='recipe-list'>
         {

@@ -10,6 +10,12 @@
   color: whitesmoke;
 }
 
+.logo-name h3{
+  font-family:sans-serif ;
+  font-size: 12px;
+  color: rgb(173, 179, 177);
+}
+
 body{
   background-color: rgb(205, 225, 217);
 }
