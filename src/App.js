@@ -14,7 +14,7 @@ function App() {
       <header className='logo-name'>
         <h1>Air Foodie 🍱</h1>
         <div className='welcome-message'>
-      <h3>Welcome to My recipe book, what do you want to cook today?</h3>
+      <h3>Welcome to my recipe book, what do you want to cook today?</h3>
       </div>
         <form className='search-form'>
         <input className='search-bar' type='text' placeholder='Type in recipe name' onChange={(e) => setSearchTerm(e.target.value)}/>
